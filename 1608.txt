@@ -1,0 +1,50 @@
+Khoa học máy tính: lí thuyêt, xử lí hình ảnh, khai thác dữ leiẹu
+Công nghệ máy tính(DA): xử lí dữ liệu lớn
+công nghệ phần mềm: ứng dung, sản xuất phân mềm, công cụ lập trình
+hệ thống thông tin: quản lí dữ liệu
+CNTT: triển khai lĩnh vực về mạng IT
+
+Life circle:
+phase1: lập kế hoạch thu hoạch yc
+2: phân tích
+3: thiết kê
+4: hiện thưc, triển khai ựng dung
+
+7 giai đoạn phát triển phần mềm
+thông qua tiếp cận hđ ng dùng:
+gđ1 : thu thập yêu cầu*
+gđ2 : phân tích
+gđ3 : thiết kế
+gd4 : xây dựng
+gđ5 : testing
+gđ6 : triển khai hệ thống
+gđ7 : bảo trì, nâng cấp
+trong môn này cần:
+b1: xác định
+b2: phân thích
+b3: thiết kế
+b4: cài đặt 
+b5: kiểm thử
+
+xu hướng phát triển:
+di dộng, big data, đám mây, python, web,
+DESKTOP
+
+BÁO CÁO
+rõ ràng, cô đọng, dễ đọc
+xác định rõ mục đích, lưu ý nội dung
+
+quá trình viết báo cáo:
+- chuẩn bị
+- viết nhấp
+- xem lại
+- đọc thử
+
+2 phụ lục: bản kế hoạch, nhật kí
+tài liệu tham khảo:
+sắp xếp theo nhóm ngôn ngữ, giữ nguyên văn bản ko dịch ra
+danh mục theo bảng chữ cái
+tác giả: 
+*báo: ghi nguồn và năm công bố
+
+
